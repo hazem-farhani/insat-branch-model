@@ -1,5 +1,5 @@
 import flask
-from tensorflow.keras.models import load_model
+from keras.models import load_model
 import numpy as np
 
 model = load_model('model/model.h5')
