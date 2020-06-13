@@ -1,4 +1,4 @@
 flask
 numpy
-tensorflow
+tensorflow2.0.0rc0
 gunicorn
