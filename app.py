@@ -1,5 +1,5 @@
 import flask
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 import numpy as np
 
 model = load_model('model/model.h5')
@@ -14,7 +14,7 @@ def preprocess(sexe, section, score):
         input_sexe = 0.
     if section == 'Informatique':
         input_sec_1 = input_sec_2 = input_sec_3 = 0.
-    elif section == 'Mathématique':
+    elif section == 'Mathematique':
         input_sec_1 = 1.
         input_sec_2 = 0.
         input_sec_3 = 0.
