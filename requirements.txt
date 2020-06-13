@@ -1,4 +1,4 @@
 flask
 numpy
-tensorflow2.0.0rc0
+keras.models
 gunicorn

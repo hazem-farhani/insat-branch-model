@@ -1,8 +1,8 @@
 import flask
-from tensorflow import keras
+from tensorflow.keras.models import load_model
 import numpy as np
 
-model = keras.models.load_model('model/model.h5')
+model = load_model('model/model.h5')
 
 app = flask.Flask(__name__, template_folder='templates')
 
