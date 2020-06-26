@@ -1,5 +1,5 @@
 ## insat-branch-model
-The model predicts the probabilities for each branch in INSAT individually giving some inputs.
+The deep-learning model predicts the probabilities to get assigned for each branch in INSAT giving some inputs of a particular student.
 
 ## Deployment
 The model can be found live at:
