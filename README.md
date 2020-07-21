@@ -1,6 +1,6 @@
 ## insat-branch-model
-The deep-learning model predicts the probabilities to get assigned for each branch in INSAT giving some inputs of a particular student.
+InstaPay is a web platform that manages the business between influencers and marks in order to make product reviews.
 
 ## Deployment
 The model can be found live at:
-https://insat-branch-model.herokuapp.com/
+https://instapay-48e53.firebaseapp.com
