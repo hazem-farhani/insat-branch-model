@@ -1,5 +1,5 @@
 ## insat-branch-model
-InstaPay is a web platform that manages the business between influencers and marks in order to make product reviews.
+A deep-learning model that predicts the probabilities to get assigned for each branch in INSAT giving some inputs of a particular student.
 
 ## Deployment
 The model can be found live at:
