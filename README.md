@@ -3,4 +3,4 @@ InstaPay is a web platform that manages the business between influencers and mar
 
 ## Deployment
 The model can be found live at:
-https://instapay-48e53.firebaseapp.com
+https://insat-branch-model.herokuapp.com
